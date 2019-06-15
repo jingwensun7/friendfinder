@@ -24,3 +24,7 @@
   },
   "homepage": "https://github.com/jingwensun7/friendfinder#readme"
 }
+"engines": {
+    "node": "XXX",
+    "npm": "XXX"
+}
