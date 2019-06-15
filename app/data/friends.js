@@ -1,7 +1,7 @@
 var friends = [
     {
     "name":"Lilac",
-    "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.gardenia.net%2Frendition.slider_detail%2Fuploads%2Fplant_family%2F1539367284-bf48274f5a7958844%2F102990131_sOptimized.jpg&imgrefurl=https%3A%2F%2Fwww.gardenia.net%2Fplant-variety%2Fsyringa-vulgaris-common-lilac&docid=b-DrqWSEiTRo-M&tbnid=apmzP2ns76Ve7M%3A&vet=10ahUKEwid6YL71ujiAhVMVK0KHXbNBx0QMwiCASgFMAU..i&w=780&h=520&client=safari&bih=728&biw=1440&q=lilac&ved=0ahUKEwid6YL71ujiAhVMVK0KHXbNBx0QMwiCASgFMAU&iact=mrc&uact=8",
+    "photo":"https://www.gardenia.net/rendition.slider_detail/uploads/plant_family/1539367284-bf48274f5a7958844/102990131_sOptimized.jpg",
     "scores":[
         5,
         1,
@@ -17,7 +17,7 @@ var friends = [
     },
     {
     "name":"Magnolia",
-    "photo":"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwixppvx1ujiAhVKaq0KHRJUB5cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.wbur.org%2Fcognoscenti%2F2018%2F02%2F21%2Fmagnolia-blossoms-mike-campbell&psig=AOvVaw1z-gB7HHLp2kSwBNPP2iN8&ust=1560591597395735",
+    "photo":"https://d279m997dpfwgl.cloudfront.net/wp/2018/02/8959633209_f94a855058_k-1000x667.jpg",
     "scores":[
         2,
         4,
@@ -33,7 +33,7 @@ var friends = [
     },
     {
     "name":"Peony",
-    "photo":"https://images.app.goo.gl/jBqN5cTUCEoq6Cqk6",
+    "photo":"http://www.uniondemocrat.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=RKXfLRyrJ4ZwoMIRHgVUBM$daE2N3K4ZzOUsqbU5sYvEPviCjlIhx4w7pbA9GiphWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg",
     "scores":[
         1,
         3,
@@ -49,7 +49,7 @@ var friends = [
     },
     {
     "name":"Blue",
-    "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Frukminim1.flixcart.com%2Fimage%2F704%2F704%2Fplant-seed%2F2%2Fx%2Fq%2Fsaaheli-20-rose-blue-dragon-original-imaebz8yzfyznnxs.jpeg%3Fq%3D70&imgrefurl=https%3A%2F%2Fwww.flipkart.com%2Fsaaheli-rose-blue-dragon-plant-seed%2Fp%2Fitmebzvgsegd65wj&docid=1FZ2haiPm2CQPM&tbnid=tpTcMDLABD5dWM%3A&vet=10ahUKEwiwgsSl1-jiAhUHnKwKHaasCYYQMwh4KAQwBA..i&w=704&h=492&client=safari&bih=728&biw=1440&q=rose%20blue&ved=0ahUKEwiwgsSl1-jiAhUHnKwKHaasCYYQMwh4KAQwBA&iact=mrc&uact=8",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkhOAw7UckCw8Zw5KdFq7V3wCDHQK1Rm0z9vKeIGROJ2c0JIez",
     "scores":[
         2,
         3,
@@ -65,7 +65,7 @@ var friends = [
     },
     {
     "name":"Fleur",
-    "photo":"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiWkbfW1-jiAhUIMawKHXWrDH0QjRx6BAgBEAU&url=https%3A%2F%2Fwww.afloral.com%2Fpages%2Fshop-by-color&psig=AOvVaw2rYxNS-mXo_ojzhpJXA0XV&ust=1560591796339698",
+    "photo":"https://cdn.shopify.com/s/files/1/1334/4597/collections/Blues-Shop-Silk-Flowers-by-Color_640x.jpg?v=1521040478",
     "scores":[
         5,
         2,
