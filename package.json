@@ -23,8 +23,8 @@
     "url": "https://github.com/jingwensun7/friendfinder/issues"
   },
   "homepage": "https://github.com/jingwensun7/friendfinder#readme"
-}
+},
 "engines": {
-    "node": "XXX",
-    "npm": "XXX"
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
 }
